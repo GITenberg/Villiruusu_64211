@@ -1,0 +1,33 @@
+_repo: Villiruusu_64211
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Maanpää, J.
+    gutenberg_agent_id: '52801'
+    url: http://www.gutenberg.org/2009/agents/52801
+creator:
+  author:
+    agent_name: Wiggin, Kate Douglas Smith
+    aliases:
+    - Smith, Kate Douglas
+    - Riggs, Kate Douglas Smith Wiggin
+    - Wiggin, Samuel Bradley, Mrs.
+    - Riggs, George Christopher, Mrs.
+    birthdate: 1856
+    deathdate: 1923
+    gutenberg_agent_id: '266'
+    url: http://www.gutenberg.org/2009/agents/266
+    wikipedia: https://en.wikipedia.org/wiki/Kate_Douglas_Wiggin
+description: ''
+gutenberg_issued: '2021-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64211'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Villiruusu
+url: http://www.gutenberg.org/ebooks/64211
